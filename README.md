@@ -7,7 +7,7 @@ Este script, `swich_suricata_mode.sh` ha sido desarrollado como herramienta auxi
 
 ## Motivación
 
-Durante el desarrollo de los laboratorios prácticos del TFG se hizo evidente la necesidad de cambiar frecuentemente entre los diferentes modos en Suricata, el modo IDS y el IPS. Gestionar el servicio y consultar los gos para analizar los resultados que se obtenian. 
+Durante el desarrollo de los laboratorios prácticos del TFG se hizo evidente la necesidad de cambiar frecuentemente entre los diferentes modos en Suricata, el modo IDS y el IPS. Gestionar el servicio y consultar los logs para analizar los resultados que se obtenian. 
 
 El script tiene como objetivo automatizar y centralizar estas operaciones optimizando el flujo de trabajo, esto permite centrarse en el análisis de los ataques y respuesta de Suricata.
 
