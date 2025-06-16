@@ -47,7 +47,7 @@ Para poder utilizar el script es necesario contar con lo siguiente (probado en U
     ```bash
     git clone [https://github.com/tu-usuario/script_suricata_tfg.git](https://github.com/tu-usuario/script_suricata_tfg.git)
     ```
-    *(Reemplaza `tu-usuario` y `TFG-Suricata-Script` por tu nombre de usuario y el de tu repositorio)*
+    *(Reemplaza `tu-usuario` y `script_suricata_tfg` por tu nombre de usuario y el de tu repositorio)*
 
 2.  Navega al directorio del proyecto:
     ```bash
